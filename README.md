@@ -24,8 +24,9 @@
       to be addressed to provide equal opportunities for all.
       
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
- <img src="https://pbs.twimg.com/media/Dm1CXzzW4AAfsub.jpg" img height="250" align='right'  alt="Scrolling">
+
 <div align="center">
+   <img src="https://pbs.twimg.com/media/Dm1CXzzW4AAfsub.jpg" img height="250" align='center'  alt="Scrolling">
   <h3> "Failure is an option here. If things are not failing you are not innovating enough." </h3>
   <h2> - Elon Musk <h2>
 </div>
