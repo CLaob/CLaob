@@ -4,7 +4,7 @@
  
 <p align='center'> 
 <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
-<a href=""><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Cybs_Laobena"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
   
   
 <div align="center">
