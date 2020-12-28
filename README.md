@@ -26,7 +26,7 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <div align="center">
-  <img src="https://pbs.twimg.com/media/Dm1CXzzW4AAfsub.jpg" img height="200" align='center' alt="my img"/>
+  <img src="https://pbs.twimg.com/media/Dm1CXzzW4AAfsub.jpg" img height="200" align='right'  alt="Scrolling">
   <h3> "Failure is an option here. If things are not failing you are not innovating enough." </h3>
   <h2> - Elon Musk <h2>
 </div>
