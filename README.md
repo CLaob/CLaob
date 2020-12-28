@@ -30,21 +30,14 @@
   <h3> "Failure is an option here. If things are not failing you are not innovating enough." </h3>
   <h2> - Elon Musk <h2>
 </div>
-    
-<div align="center">
-  
   
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bee-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
 ### Common Tools
 <a href="#" alt="javascript"><img height="33" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href='https://svgshare.com/s/ShQ' ><img height="34"src='https://svgshare.com/i/ShQ.svg' title='java' /></a>
+<a href='https://svgshare.com/s/ShQ' ><img height="34" src='https://svgshare.com/i/ShQ.svg' title='java' /></a>
 <a href="#" alt="python"><img height="34" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"></a>&nbsp;
+<a href="#" alt="haskell"><img height="34" src="https://svgshare.com/i/Sex.svg"></a>&nbsp;
 <a href="#" alt="nodejs"><img height="37" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="swift"><img height="34" src="https://svgshare.com/i/NWS.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="react"><img height="34" src="https://svgshare.com/i/RjK.svg"></a>&nbsp;
