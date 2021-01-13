@@ -26,9 +26,9 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <div align="center">
-   <img src="https://pbs.twimg.com/media/Dm1CXzzW4AAfsub.jpg" img height="250" align='center'  alt="Scrolling">
-  <h3> "Failure is an option here. If things are not failing you are not innovating enough." </h3>
-  <h2> - Elon Musk <h2>
+   <img src="https://m.media-amazon.com/images/I/41no+PR5RXL.jpg" img height="250" align='center'  alt="Scrolling">
+  <h3> "The happiness of your life depends upon the quality of your thoughts" </h3>
+  <h2> - Marcus Aurelius <h2>
 </div>
   
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
