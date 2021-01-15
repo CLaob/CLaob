@@ -19,9 +19,9 @@
 - 🏫 A real intrest in teaching and learning of Computer Science.
 - 🥋 Projects that integrate Computer Science within Sports.
 - 💭 Let's get to know each other 
-- 👨👩 My next goal within Computer Science is to research how we can change
-      encourage female participation wihtin the subject. This is growing global problem that needs
-      to be addressed to provide equal opportunities for all.
+- 👨👩 My next goal within Computer Science is to research how we can
+      encourage female participation within the subject. This is a growing global problem that needs
+      to be addressed so that equal opportunities is provided for all.
       
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
