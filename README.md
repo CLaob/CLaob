@@ -19,19 +19,7 @@
 - 🏫 A real intrest in teaching and learning of Computer Science.
 - 🥋 Projects that integrate Computer Science within Sports.
 - 💭 Let's get to know each other 
-- 👨👩 My next goal within Computer Science is to research how we can
-      encourage female participation within the subject. This is a growing global problem that needs
-      to be addressed so that equal opportunities is provided for all.
       
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-
-<div align="center">
-   <img src="https://m.media-amazon.com/images/I/41no+PR5RXL.jpg" img height="250" align='center'  alt="Scrolling">
-  <h3> "The happiness of your life depends upon the quality of your thoughts" </h3>
-  <h2> - Marcus Aurelius <h2>
-</div>
-  
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 ### Common Tools
 <a href="#" alt="javascript"><img height="33" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></a>&nbsp;&nbsp;&nbsp;
