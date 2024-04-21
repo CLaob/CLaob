@@ -14,10 +14,7 @@
 
 ### About Me 
 
-- 💛 I love all things technology and teaching.
 - 🎓 Graduate Computer Scientist with Honours from a Russel Group University.
-- 🏫 A real intrest in teaching and learning of Computer Science.
-- 🥋 Projects that integrate Computer Science within Sports.
 - 💭 Let's get to know each other 
       
 
